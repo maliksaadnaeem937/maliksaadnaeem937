@@ -20,6 +20,10 @@
 </ul>
 <p>Check out the details on my <a href="https://github.com/maliksaadnaeem937/Cpp-OOP-and-DSA-projects" target="_blank">GitHub Repository</a>.</p>
 
+<h2>📜 Certifications</h2>
+
+<p>I'm certified in React Basics from HackerRank. You can view the certification <a href="https://www.hackerrank.com/certificates/4ec1db2ac8c2" target="_blank">here</a>.</p>
+
 <h2>🤳 Connect with Me</h2>
 
 <p>
