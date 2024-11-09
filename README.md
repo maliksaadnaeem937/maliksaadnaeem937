@@ -11,6 +11,7 @@
   <li><b>Van Life Project</b> - <i>Built with React Router DOM</i></li>
 </ul>
 <p>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</p>
+<p>Check out my latest project: <a href="https://my-testing-site-new.netlify.app/" target="_blank">Testing Site on Netlify</a>.</p>
 
 <h2>📚 University Projects</h2>
 
@@ -32,20 +33,3 @@
     LinkedIn
   </a>
 </p>
-
-
-
-<!--
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
