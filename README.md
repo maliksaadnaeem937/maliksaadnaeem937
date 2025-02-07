@@ -12,6 +12,8 @@
 </ul>
 <p><b>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</b></p>
 <p><b>Check out my latest project:</b> <a href="https://my-testing-site-new.netlify.app/" target="_blank"><b>Testing Site on Netlify</b></a>.</p>
+<p><b>Check out my personal project:</b> <a href="https://groq-ai-chef.netlify.app/" target="_blank"><b>Groq AI Chef</b></a>.</p>
+<p><b>Check out the repository for Groq AI Chef:</b> <a href="https://github.com/maliksaadnaeem937/Groq-Chef" target="_blank"><b>Groq AI Chef GitHub Repo</b></a>.</p>
 
 <h2><b>📚 University Projects</b></h2>
 
@@ -33,4 +35,3 @@
     <b>LinkedIn</b>
   </a>
 </p>
-
