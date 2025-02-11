@@ -9,11 +9,19 @@
 <ul>
   <li><b>🚀 MERN Social Media Web</b> - <i>Performs CRUD operations</i></li>
   <li><b>Van Life Project</b> - <i>Built with React Router DOM</i></li>
+  <li><b>📝 Todo App</b> - <i>Implemented using useReducer and localStorage for persistence</i></li>
+  <ul>
+    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Todo-APP" target="_blank"><b>GitHub Repository</b></a></li>
+    <li>🌐 <a href="https://unique-todoo-app.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
+  </ul>
+  <li><b>🧠 Memory Game</b> - <i>A fun memory-based game built with React</i></li>
+  <ul>
+    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Memory-Game" target="_blank"><b>GitHub Repository</b></a></li>
+    <li>🌐 <a href="https://memory-game-unique.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
+  </ul>
 </ul>
+
 <p><b>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</b></p>
-<p><b>Check out my latest project:</b> <a href="https://my-testing-site-new.netlify.app/" target="_blank"><b>Testing Site on Netlify</b></a>.</p>
-<p><b>Check out my personal project:</b> <a href="https://groq-ai-chef.netlify.app/" target="_blank"><b>Groq AI Chef</b></a>.</p>
-<p><b>Check out the repository for Groq AI Chef:</b> <a href="https://github.com/maliksaadnaeem937/Groq-Chef" target="_blank"><b>Groq AI Chef GitHub Repo</b></a>.</p>
 
 <h2><b>📚 University Projects</b></h2>
 
@@ -30,7 +38,8 @@
 <h2><b>🤳 Connect with Me</b></h2>
 
 <p>
-  <b>Feel free to connect with me on</b> <a href="https://www.linkedin.com/in/malik-saad-naeem-a84060264/" target="_blank">
+  <b>Feel free to connect with me on</b> 
+  <a href="https://www.linkedin.com/in/malik-saad-naeem-a84060264/" target="_blank">
     <img align="left" alt="Malik Saad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     <b>LinkedIn</b>
   </a>
