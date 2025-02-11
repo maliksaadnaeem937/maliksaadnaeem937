@@ -19,6 +19,11 @@
     <li>🔗 <a href="https://github.com/maliksaadnaeem937/Memory-Game" target="_blank"><b>GitHub Repository</b></a></li>
     <li>🌐 <a href="https://memory-game-unique.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
   </ul>
+  <li><b>🍽️ Groq AI Chef</b> - <i>An AI-powered recipe generator</i></li>
+  <ul>
+    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Groq-Chef" target="_blank"><b>GitHub Repository</b></a></li>
+    <li>🌐 <a href="https://groq-ai-chef.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
+  </ul>
 </ul>
 
 <p><b>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</b></p>
