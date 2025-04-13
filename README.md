@@ -24,6 +24,15 @@
     <li>🔗 <a href="https://github.com/maliksaadnaeem937/Groq-Chef" target="_blank"><b>GitHub Repository</b></a></li>
     <li>🌐 <a href="https://groq-ai-chef.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
   </ul>
+  <li><b>💬 Confession Website</b> - <i>Frontend & Backend using MERN stack</i></li>
+  <ul>
+    <li>🔗 <a href="https://github.com/maliksaadnaeem937/ConfessionFrontEnd" target="_blank"><b>Frontend Repository</b></a></li>
+    <li>🔗 <a href="https://github.com/maliksaadnaeem937/ConfessionWebsiteBackend" target="_blank"><b>Backend Repository</b></a></li>
+  </ul>
+  <li><b>🍽️ Perth Flavours</b> - <i>Food Website with animations and smooth UI</i></li>
+  <ul>
+    <li>🌐 <a href="https://perth-flavours.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
+  </ul>
 </ul>
 
 <p><b>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</b></p>
