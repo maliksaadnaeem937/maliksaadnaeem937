@@ -1,73 +1,92 @@
 # Hi, I'm Malik Saad Naeem! 👋
 
-**Computer Science Student (BSCS) at Institute of Space Technology**
+**Full-Stack Web Developer | BSCS Student at Institute of Space Technology**
+
+Passionate about building scalable web applications with modern technologies. Experienced in developing full-stack solutions using the MERN stack and Next.js. Currently seeking junior full-stack developer opportunities.
 
 ### 🌐 Portfolio
-Check out my [**Online Portfolio**](https://malik-dev-folio.vercel.app/) to see my work and learn more about me.
+[**malik-dev-folio.vercel.app**](https://malik-dev-folio.vercel.app/)
+
+---
+
+## 💼 Experience
+
+**Web Development Intern** | Texinity Technologies  
+*July 2024 - August 2024*
+- Developed full-stack applications using React.js, Next.js, Node.js, and Express.js
+- Built RESTful APIs with Node.js and Express, integrating MongoDB for efficient data storage
+- Implemented JWT-based authentication and role-based access control for secure applications
+- Contributed to a Human Resource Management System (HRMS) featuring employee management and secure login functionality
+- Managed complex application state using Redux for enhanced performance
+- Collaborated with development teams using Git/GitHub and agile methodologies for real-world project deployment
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend:** React.js, Next.js, Redux Toolkit, React Router, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Database:** MongoDB, Firebase  
+**Authentication & Security:** JWT, Firebase Auth, OTP Verification, Role-Based Access Control  
+**Tools & Practices:** Git/GitHub, Agile, Postman, Vercel, Netlify  
+**AI Integration:** Groq API, Ollama
 
 ---
 
 ## 🚀 Featured Projects
 
-### Web Development
+### **Next.js Blog Platform**
+A full-featured blogging platform with complete user interaction and content management capabilities.
+- **Tech Stack:** Next.js, MongoDB, JWT, Node.js, Express.js
+- **Key Features:** 
+  - Post creation, editing, and deletion with rich content support
+  - Interactive commenting system and like functionality
+  - Secure OTP-based authentication with JWT
+  - User profile management with image upload capabilities
+  - Responsive design for seamless mobile and desktop experience
+- **Technical Highlights:** RESTful API design, secure authentication flow, image handling and storage, MongoDB schema design
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/NextJs) | [🌐 Live Demo](https://next-js-one-ivory.vercel.app)
 
-**AI Chat Bot with Ollama**
-- AI-powered chatbot using Ollama
-- Firebase authentication & MongoDB for chat storage
-- Redux Toolkit for state management
-- [🔗 GitHub Repository](https://github.com/maliksaadnaeem937/AI-ChatBot-Ollama)
+### **AI Chat Bot with Ollama**
+Intelligent conversational AI application leveraging Ollama for natural language processing.
+- **Tech Stack:** React, Node.js, MongoDB, Firebase, Redux Toolkit, Ollama
+- **Key Features:**
+  - Real-time AI-powered conversations with context retention
+  - Persistent chat history with MongoDB storage
+  - Firebase authentication for user management
+  - Redux Toolkit for complex state management across the application
+- **Technical Highlights:** Integration with Ollama AI models, real-time data synchronization, scalable state architecture
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/AI-ChatBot-Ollama)
 
-**Next.js Blog Platform**
-- Full-stack blog platform with user profile management
-- JWT authentication for secure user sessions
-- Built with Next.js for optimal performance
-- [🔗 GitHub Repository](https://github.com/maliksaadnaeem937/NextJs) | [🌐 Live Demo](https://next-js-one-ivory.vercel.app)
-
-**MERN Social Media Web**
-- Full-stack social media platform with CRUD operations
-- Built with MongoDB, Express, React, and Node.js
-
-**Van Life Project**
-- Multi-page React application with React Router DOM
-- Modern routing and navigation patterns
-
-**📝 Todo App**
-- State management with useReducer
-- LocalStorage for data persistence
-- [🔗 GitHub](https://github.com/maliksaadnaeem937/Todo-APP) | [🌐 Live Demo](https://unique-todoo-app.netlify.app/)
-
-**🧠 Memory Game**
-- Interactive memory card game built with React
-- [🔗 GitHub](https://github.com/maliksaadnaeem937/Memory-Game) | [🌐 Live Demo](https://memory-game-unique.netlify.app/)
-
-**🍽️ Groq AI Chef**
-- AI-powered recipe generator using Groq API
-- [🔗 GitHub](https://github.com/maliksaadnaeem937/Groq-Chef) | [🌐 Live Demo](https://groq-ai-chef.netlify.app/)
-
-**🍽️ Perth Flavours**
-- Food website with smooth animations and modern UI
-- [🌐 Live Demo](https://perth-flavours.netlify.app/)
-
-**🧪 Testing Site**
-- Experimentation and demo project
-- [🌐 Live Demo](https://my-testing-site-new.netlify.app/)
-
-[**Explore more projects on GitHub**](https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations)
+### **MERN Social Media Platform**
+Comprehensive social media application demonstrating full-stack MERN development capabilities.
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+- **Key Features:**
+  - User posts with full CRUD operations
+  - Social interactions (likes, comments, shares)
+  - Real-time feed updates
+  - User profiles and authentication
+- **Technical Highlights:** Complete MERN stack implementation, RESTful API architecture, database relationships and schema design, responsive UI/UX
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations)
 
 ---
 
-## 📚 University Projects
+## 🎓 Education
 
-- **OOP Supermarket Management System** - Object-oriented design principles in C++
-- **DSA Projects** - Word Frequency Counter + Supermarket Management System
+**Bachelor of Science in Computer Science**  
+Institute of Space Technology (KICSIT) | 2023 - 2027  
+*Relevant Coursework:* Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Web Development
 
-[**View Projects Repository**](https://github.com/maliksaadnaeem937/Cpp-OOP-and-DSA-projects)
+### Academic Projects
+- **OOP Supermarket Management System** - C++ application implementing advanced OOP concepts including inheritance, polymorphism, and encapsulation
+- **DSA Projects** - Word Frequency Counter and Supermarket Management System utilizing hash maps, sorting algorithms, and complex data structures
+- [🔗 View Repository](https://github.com/maliksaadnaeem937/Cpp-OOP-and-DSA-projects)
 
 ---
 
 ## 📜 Certifications
 
-**React Basics Certification** - HackerRank  
+**React Basics** - HackerRank  
 [View Certificate](https://www.hackerrank.com/certificates/4ec1db2ac8c2)
 
 ---
@@ -80,4 +99,4 @@ Check out my [**Online Portfolio**](https://malik-dev-folio.vercel.app/) to see 
 
 ---
 
-*These projects represent my continuous learning journey in web development and computer science.*
+*Actively seeking junior full-stack developer positions | Available for immediate start*
