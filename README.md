@@ -17,6 +17,12 @@ Check out my [**Online Portfolio**](https://malik-dev-folio.vercel.app/) to see 
 - Redux Toolkit for state management
 - [🔗 GitHub Repository](https://github.com/maliksaadnaeem937/AI-ChatBot-Ollama)
 
+**Next.js Blog Platform**
+- Full-stack blog platform with user profile management
+- JWT authentication for secure user sessions
+- Built with Next.js for optimal performance
+- [🔗 GitHub Repository](https://github.com/maliksaadnaeem937/NextJs) | [🌐 Live Demo](https://next-js-one-ivory.vercel.app)
+
 **MERN Social Media Web**
 - Full-stack social media platform with CRUD operations
 - Built with MongoDB, Express, React, and Node.js
