@@ -1,64 +1,77 @@
-<h1><b>Hi, I'm Malik Saad Naeem! 👋</b></h1>
+# Hi, I'm Malik Saad Naeem! 👋
 
-<h4><b>Computer Science Student (BSCS) at Institute of Space Technology</b></h4>
+**Computer Science Student (BSCS) at Institute of Space Technology**
 
-<h2><b>🚀 Web Development Projects</b></h2>
+### 🌐 Portfolio
+Check out my [**Online Portfolio**](https://malik-dev-folio.vercel.app/) to see my work and learn more about me.
 
-<p><i>These projects are part of my learning journey with React and related technologies.</i></p>
+---
 
-<ul>
-  <li><b>🚀 MERN Social Media Web</b> - <i>Performs CRUD operations</i></li>
-  <li><b>Van Life Project</b> - <i>Built with React Router DOM</i></li>
-  <li><b>📝 Todo App</b> - <i>Implemented using useReducer and localStorage for persistence</i></li>
-  <ul>
-    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Todo-APP" target="_blank"><b>GitHub Repository</b></a></li>
-    <li>🌐 <a href="https://unique-todoo-app.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
-  </ul>
-  <li><b>🧠 Memory Game</b> - <i>A fun memory-based game built with React</i></li>
-  <ul>
-    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Memory-Game" target="_blank"><b>GitHub Repository</b></a></li>
-    <li>🌐 <a href="https://memory-game-unique.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
-  </ul>
-  <li><b>🍽️ Groq AI Chef</b> - <i>An AI-powered recipe generator</i></li>
-  <ul>
-    <li>🔗 <a href="https://github.com/maliksaadnaeem937/Groq-Chef" target="_blank"><b>GitHub Repository</b></a></li>
-    <li>🌐 <a href="https://groq-ai-chef.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
-  </ul>
-  <li><b>💬 Confession Website</b> - <i>Frontend & Backend using MERN stack</i></li>
-  <ul>
-    <li>🔗 <a href="https://github.com/maliksaadnaeem937/ConfessionFrontEnd" target="_blank"><b>Frontend Repository</b></a></li>
-    <li>🔗 <a href="https://github.com/maliksaadnaeem937/ConfessionWebsiteBackend" target="_blank"><b>Backend Repository</b></a></li>
-  </ul>
-  <li><b>🍽️ Perth Flavours</b> - <i>Food Website with animations and smooth UI</i></li>
-  <ul>
-    <li>🌐 <a href="https://perth-flavours.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
-  </ul>
-  <li><b>🧪 Testing Site</b> - <i>Demo and experimentation project</i></li>
-  <ul>
-    <li>🌐 <a href="https://my-testing-site-new.netlify.app/" target="_blank"><b>Live Demo</b></a></li>
-  </ul>
-</ul>
+## 🚀 Featured Projects
 
-<p><b>Explore more on my <a href="https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations" target="_blank">GitHub Repository</a>.</b></p>
+### Web Development
 
-<h2><b>📚 University Projects</b></h2>
+**AI Chat Bot with Ollama**
+- AI-powered chatbot using Ollama
+- Firebase authentication & MongoDB for chat storage
+- Redux Toolkit for state management
+- [🔗 GitHub Repository](https://github.com/maliksaadnaeem937/AI-ChatBot-Ollama)
 
-<ul>
-  <li><b>OOP Supermarket Management System</b></li>
-  <li><b>DSA: Word Frequency Counter + Supermarket Management System</b></li>
-</ul>
-<p><b>Check out the details on my <a href="https://github.com/maliksaadnaeem937/Cpp-OOP-and-DSA-projects" target="_blank">GitHub Repository</a>.</b></p>
+**MERN Social Media Web**
+- Full-stack social media platform with CRUD operations
+- Built with MongoDB, Express, React, and Node.js
 
-<h2><b>📜 Certifications</b></h2>
+**Van Life Project**
+- Multi-page React application with React Router DOM
+- Modern routing and navigation patterns
 
-<p><b>I'm certified in React Basics from HackerRank.</b> You can view the certification <a href="https://www.hackerrank.com/certificates/4ec1db2ac8c2" target="_blank"><b>here</b></a>.</p>
+**📝 Todo App**
+- State management with useReducer
+- LocalStorage for data persistence
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/Todo-APP) | [🌐 Live Demo](https://unique-todoo-app.netlify.app/)
 
-<h2><b>🤳 Connect with Me</b></h2>
+**🧠 Memory Game**
+- Interactive memory card game built with React
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/Memory-Game) | [🌐 Live Demo](https://memory-game-unique.netlify.app/)
 
-<p>
-  <b>Feel free to connect with me on</b> 
-  <a href="https://www.linkedin.com/in/malik-saad-naeem-a84060264/" target="_blank">
-    <img align="left" alt="Malik Saad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    <b>LinkedIn</b>
-  </a>
-</p>
+**🍽️ Groq AI Chef**
+- AI-powered recipe generator using Groq API
+- [🔗 GitHub](https://github.com/maliksaadnaeem937/Groq-Chef) | [🌐 Live Demo](https://groq-ai-chef.netlify.app/)
+
+**🍽️ Perth Flavours**
+- Food website with smooth animations and modern UI
+- [🌐 Live Demo](https://perth-flavours.netlify.app/)
+
+**🧪 Testing Site**
+- Experimentation and demo project
+- [🌐 Live Demo](https://my-testing-site-new.netlify.app/)
+
+[**Explore more projects on GitHub**](https://github.com/maliksaadnaeem937/MERN_Projects_With_React_Router_DOM_Crud_Operations)
+
+---
+
+## 📚 University Projects
+
+- **OOP Supermarket Management System** - Object-oriented design principles in C++
+- **DSA Projects** - Word Frequency Counter + Supermarket Management System
+
+[**View Projects Repository**](https://github.com/maliksaadnaeem937/Cpp-OOP-and-DSA-projects)
+
+---
+
+## 📜 Certifications
+
+**React Basics Certification** - HackerRank  
+[View Certificate](https://www.hackerrank.com/certificates/4ec1db2ac8c2)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-saad-naeem-a84060264/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malik-dev-folio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maliksaadnaeem937)
+
+---
+
+*These projects represent my continuous learning journey in web development and computer science.*
