@@ -12,7 +12,7 @@ Passionate about building scalable web applications with modern technologies. Ex
 ## 💼 Experience
 
 **Web Development Intern** | Texinity Technologies  
-*July 2024 - August 2024*
+*July 2025 - August 2025*
 - Developed full-stack applications using React.js, Next.js, Node.js, and Express.js
 - Built RESTful APIs with Node.js and Express, integrating MongoDB for efficient data storage
 - Implemented JWT-based authentication and role-based access control for secure applications
@@ -26,7 +26,7 @@ Passionate about building scalable web applications with modern technologies. Ex
 
 **Frontend:** React.js, Next.js, Redux Toolkit, React Router, HTML5, CSS3, JavaScript (ES6+)  
 **Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB, Firebase  
+**Database:** MongoDB, Firebase, Sql
 **Authentication & Security:** JWT, Firebase Auth, OTP Verification, Role-Based Access Control  
 **Tools & Practices:** Git/GitHub, Agile, Postman, Vercel, Netlify  
 **AI Integration:** Groq API, Ollama
