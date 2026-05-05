@@ -1,58 +1,87 @@
-# Hi, I'm Malik Saad Naeem! 👋
+# Malik Saad Naeem
 
 **Full-Stack Web Developer | BSCS Student at Institute of Space Technology**
 
-Passionate about building scalable web applications and AI-powered systems using modern technologies like MERN, Next.js, FastAPI, and LLM integrations.
+---
+
+## About Me
+Passionate full-stack developer with expertise in building scalable web applications and AI-powered systems. Proficient in modern technologies including MERN stack, Next.js, FastAPI, and LLM integrations. Committed to delivering high-quality, user-centric solutions through agile development practices.
 
 ---
 
-## 🌐 Portfolio
-https://malik-dev-folio.vercel.app
+## Education
+**Bachelor of Science in Computer Science (BSCS)**  
+Institute of Space Technology  
+*Expected Graduation: 2027*
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Web Development Intern | Texinity Technologies**  
+**Web Development Intern**  
+Texinity Technologies  
 *July 2025 – August 2025*
 
-- Developed full-stack applications using React.js, Next.js, Node.js, and Express.js  
-- Built RESTful APIs with Node.js and Express, integrating MongoDB for data storage  
-- Implemented JWT authentication and role-based access control  
-- Contributed to HRMS system with secure login and employee management features  
-- Managed application state using Redux Toolkit  
-- Worked in agile team using Git/GitHub workflows  
+- Developed and deployed full-stack applications using React.js, Next.js, Node.js, and Express.js, contributing to a 20% improvement in application performance
+- Designed and implemented 5+ RESTful APIs with Node.js and Express, integrating MongoDB for efficient data storage and retrieval
+- Implemented robust JWT authentication and role-based access control, enhancing system security
+- Contributed to HRMS system development, including secure login mechanisms and employee management features
+- Managed application state using Redux Toolkit, ensuring seamless user experiences
+- Collaborated in an agile team environment, utilizing Git/GitHub for version control and CI/CD workflows
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend:** React.js, Next.js, Redux Toolkit, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, FastAPI, REST APIs  
-**Database:** MongoDB, Firebase, SQL  
-**Authentication:** JWT, Firebase Auth, OTP Verification  
-**AI / ML:** Ollama, Groq API, LangChain, CLIP, FAISS  
-**Tools:** Git/GitHub, Postman, Docker, Vercel, Netlify  
+| Category       | Technologies/Skills |
+|----------------|---------------------|
+| **Frontend**  | React.js, Next.js, Redux Toolkit, HTML5, CSS3, JavaScript (ES6+) |
+| **Backend**   | Node.js, Express.js, FastAPI, REST APIs |
+| **Database**  | MongoDB, Firebase, SQL |
+| **Authentication** | JWT, Firebase Auth, OTP Verification |
+| **AI / ML**   | Ollama, Groq API, LangChain, CLIP, FAISS |
+| **Tools & Platforms** | Git/GitHub, Postman, Docker, Vercel, Netlify |
 
 ---
 
 ## 🚀 Featured Projects
 
-### Next.js Blog Platform
-Full-stack blogging platform with authentication and content management.
+### ABS Video Processing Platform
+A containerized video processing application that uploads videos through an Express backend, publishes video jobs to RabbitMQ, and processes them in a worker service to generate HLS output using FFmpeg.
 
-- **Tech Stack:** Next.js, MongoDB, JWT, Node.js, Express.js  
-- Post creation, editing, deletion with rich content support  
-- OTP-based authentication with JWT security  
-- User profile management with image upload  
-- RESTful API design with MongoDB schema modeling  
-- **Live:** https://next-js-one-ivory.vercel.app  
-- **GitHub:** https://github.com/maliksaadnaeem937/NextJs  
+**Key Features & Achievements:**
+- Architected microservices-based system with decoupled backend and worker services for scalable video processing
+- Implemented asynchronous job queuing with RabbitMQ, enabling efficient handling of video uploads and processing
+- Developed multi-quality HLS stream generation, supporting adaptive bitrate streaming for optimal user experience
+- Integrated MongoDB for metadata persistence and Docker for containerization, ensuring portability and scalability
+
+**Tech Stack:** Node.js, Express.js, MongoDB, RabbitMQ, FFmpeg, Docker  
+**GitHub:** https://github.com/maliksaadnaeem937/Adaptive-Bit-Rate-Streaming
+
+### Next.js Blog Platform
+Full-stack blogging platform with authentication and content management, serving as a comprehensive solution for content creators.
+
+**Key Features & Achievements:**
+- Built end-to-end blogging system with user authentication, content management, and rich text editing
+- Implemented OTP-based authentication with JWT for secure user sessions and data protection
+- Designed RESTful APIs with MongoDB schema modeling, supporting CRUD operations for posts and user profiles
+- Integrated image upload functionality for enhanced user engagement
+
+**Tech Stack:** Next.js, MongoDB, JWT, Node.js, Express.js  
+**Live Demo:** https://next-js-one-ivory.vercel.app  
+**GitHub:** https://github.com/maliksaadnaeem937/NextJs
 
 ---
 
-### AI Chat Bot with Ollama
-Conversational AI chatbot with memory and authentication.
+## 📫 Contact
+- **Portfolio:** https://malik-dev-folio.vercel.app
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [Your Email Address]
+- **GitHub:** https://github.com/maliksaadnaeem937
+
+---
+
+*Open to opportunities in full-stack development, AI integration, and innovative web solutions.*
 
 - **Tech Stack:** React, Node.js, MongoDB, Firebase, Redux Toolkit, Ollama  
 - Real-time AI conversations with context retention  
