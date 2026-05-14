@@ -75,8 +75,6 @@ Full-stack blogging platform with authentication and content management, serving
 
 ## 📫 Contact
 - **Portfolio:** https://malik-dev-folio.vercel.app
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
 - **GitHub:** https://github.com/maliksaadnaeem937
 
 ---
