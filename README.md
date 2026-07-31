@@ -135,27 +135,6 @@ https://github.com/maliksaadnaeem937/ChatbotUsingOllama
 
 ---
 
-## Zero-Shot Semantic Video Search
-
-AI system for semantic video understanding and natural language search.
-
-**Highlights**
-
-- Zero-shot video understanding
-- CLIP embeddings
-- FAISS vector search
-- FastAPI backend
-- Agentic LLM pipeline
-
-**Tech Stack**
-
-Python • React.js • FastAPI • CLIP • FAISS
-
-**GitHub**
-
-https://github.com/maliksaadnaeem937/video-embedding-agent
-
----
 
 ## 📜 Certification
 
