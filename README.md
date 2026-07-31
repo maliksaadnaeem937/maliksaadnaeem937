@@ -144,8 +144,6 @@ https://github.com/maliksaadnaeem937/ChatbotUsingOllama
 
 ## 📫 Connect
 
-**Portfolio**  
-https://malik-dev-folio.vercel.app
 
 **LinkedIn**  
 https://www.linkedin.com/in/malik-saad-naeem-a84060264
