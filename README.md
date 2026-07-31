@@ -14,7 +14,18 @@ Institute of Space Technology (IST)
 
 ---
 
+
 ## 💼 Experience
+### Software Engineering Intern
+**Seeq Studio (Remote)**  
+*May 2026 – Jul 2026*
+
+- Developed LLM-powered applications and AI-assisted workflows for production use.
+- Integrated Large Language Models with backend services using Python, Django, and REST APIs.
+- Built scalable AI features and contributed to production-ready software solutions.
+- Collaborated on backend development using Django and modern software engineering practices.
+
+---
 
 ### Web Development Intern
 **Texinity Technologies**  
