@@ -146,6 +146,25 @@ https://github.com/maliksaadnaeem937/ChatbotUsingOllama
 
 ---
 
+## AI Code Reviewer
+
+Automated PR reviewer that polls a GitHub repo for open PRs and posts AI-generated code reviews as comments.
+
+**Highlights**
+
+- Multi-stage LangGraph pipeline: parallel PR data fetch → intent understanding → per-file review fan-out → summary
+- Integrates GitHub MCP server for PR reads and posting comments
+- Background poller checks for new/updated PRs every 30s, dockerized FastAPI backend
+
+**Tech Stack**
+
+FastAPI • LangGraph • Gemini • GitHub MCP • Docker
+
+**GitHub**
+
+https://github.com/maliksaadnaeem937/ai-pr-reviewer
+
+---
 
 ## 📜 Certification
 
