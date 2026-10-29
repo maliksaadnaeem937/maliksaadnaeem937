@@ -14,11 +14,12 @@ Institute of Space Technology (IST)
 
 ---
 
-
 ## 💼 Experience
+
 ### Software Engineering Intern
+
 **Seeq Studio (Remote)**  
-*May 2026 – Jul 2026*
+*May 2026 – July 2026*
 
 - Developed LLM-powered applications and AI-assisted workflows for production use.
 - Integrated Large Language Models with backend services using Python, Django, and REST APIs.
@@ -28,6 +29,7 @@ Institute of Space Technology (IST)
 ---
 
 ### Web Development Intern
+
 **Texinity Technologies**  
 *July 2025 – August 2025*
 
@@ -42,30 +44,53 @@ Institute of Space Technology (IST)
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
-|----------|--------------|
+|---|---|
 | Frontend | React.js, Next.js, JavaScript, HTML5, CSS3, Redux Toolkit |
 | Backend | Node.js, Express.js, FastAPI |
 | Database | MongoDB, Firebase, SQL |
 | Authentication | JWT, Firebase Authentication, OTP |
-| AI / ML | Ollama, LangChain, Groq API, CLIP, FAISS |
+| AI / LLM | LangChain, LangGraph, RAG, Groq API, Ollama, CLIP, FAISS, ChromaDB, BM25, Cohere Rerank |
 | Tools | Git, GitHub, Docker, Postman, Vercel, Netlify |
 
 ---
 
 # 🚀 Featured Projects
 
-## Chat with Videos (AI Video Q&A)
+## 1. Deep Search Multi-Agent v3
+
+An advanced asynchronous multi-agent research pipeline built with **LangGraph, LangChain, and Python**. It automates end-to-end deep research by combining web search, content scraping, semantic chunking, hybrid retrieval, and Retrieval-Augmented Generation (RAG) to generate comprehensive research reports from a given topic.
+
+**Highlights**
+
+- **Multi-Agent Research Workflow:** Orchestrates research planning, URL extraction, web scraping, content validation, and report generation using LangGraph state graphs.
+- **Human-in-the-Loop Planning:** Allows users to review, edit, and approve research plans before execution.
+- **Web Scraping and Content Cleaning:** Uses Crawl4AI and DuckDuckGo Search (`ddgs`) with retry logic to collect and clean web content.
+- **Hybrid Retrieval Pipeline:** Combines BM25 keyword search with Chroma vector search using `BAAI/bge-small-en-v1.5` embeddings.
+- **Context Reranking:** Integrates Cohere Rerank (`rerank-v3.5`) to improve the relevance of retrieved research context.
+- **LLM Integration:** Uses Groq with `llama-3.3-70b-versatile` and Pydantic-based structured outputs.
+
+**Tech Stack**
+
+Python • LangGraph • LangChain • RAG • ChromaDB • BM25 • Cohere Rerank • Crawl4AI • DuckDuckGo • Groq • Pydantic
+
+**Google Colab**
+
+[Open Deep Search Multi-Agent v3](https://colab.research.google.com/drive/1K3Og7hw5df2ALTqpP1yFEA9MM-Zp0X1a?usp=sharing)
+
+---
+
+## 2. Chat with Videos (AI Video Q&A)
 
 AI-powered application that allows users to upload videos and ask natural language questions about their content.
 
 **Highlights**
 
-- AI-powered conversations about uploaded videos
-- Context-aware question answering
-- Video processing and semantic retrieval pipeline
-- MongoDB for metadata storage
-- Dockerized application
-- Modern React frontend with Express backend
+- AI-powered conversations about uploaded videos.
+- Context-aware question answering.
+- Video processing and semantic retrieval pipeline.
+- MongoDB for metadata storage.
+- Dockerized application.
+- Modern React frontend with Express backend.
 
 **Tech Stack**
 
@@ -73,22 +98,22 @@ React.js • Node.js • Express.js • MongoDB • Docker • LLM
 
 **GitHub**
 
-https://github.com/maliksaadnaeem937/chat-with-videos
+[Chat with Videos](https://github.com/maliksaadnaeem937/chat-with-videos)
 
 ---
 
-## Adaptive Bit Rate Streaming Platform
+## 3. Adaptive Bit Rate Streaming Platform
 
 Containerized video processing platform that uploads videos, processes them asynchronously with RabbitMQ workers, and generates adaptive HLS streams using FFmpeg.
 
 **Highlights**
 
-- Microservices architecture
-- RabbitMQ job queue
-- FFmpeg video processing
-- Adaptive bitrate (HLS) streaming
-- MongoDB metadata storage
-- Docker Compose deployment
+- Microservices architecture.
+- RabbitMQ job queue for asynchronous processing.
+- FFmpeg video processing.
+- Adaptive bitrate (HLS) streaming.
+- MongoDB metadata storage.
+- Docker Compose deployment.
 
 **Tech Stack**
 
@@ -96,93 +121,72 @@ Node.js • Express.js • MongoDB • RabbitMQ • FFmpeg • Docker
 
 **GitHub**
 
-https://github.com/maliksaadnaeem937/Adaptive-Bit-Rate-Streaming
+[Adaptive Bit Rate Streaming](https://github.com/maliksaadnaeem937/Adaptive-Bit-Rate-Streaming)
 
 ---
 
-## Next.js Blog Platform
+## 4. Next.js Blog Platform
 
 Full-stack blogging platform with secure authentication and content management.
 
 **Highlights**
 
-- JWT authentication
-- OTP verification
-- CRUD operations
-- Rich text blogging
-- Image uploads
+- JWT authentication.
+- OTP verification.
+- CRUD operations.
+- Rich text blogging.
+- Image uploads.
 
 **Tech Stack**
 
 Next.js • Node.js • Express.js • MongoDB • JWT
 
-
 **GitHub**
 
-https://github.com/maliksaadnaeem937/NextJs
+[Next.js Blog Platform](https://github.com/maliksaadnaeem937/NextJs)
 
 ---
 
-## AI Chatbot using Ollama
+## 5. AI Chatbot using Ollama
 
 LLM-powered chatbot with persistent conversations and authentication.
 
 **Highlights**
 
-- Real-time AI chat
-- Context retention
-- MongoDB chat history
-- Firebase Authentication
-- Redux Toolkit
-- Ollama integration
+- Real-time AI chat.
+- Context retention.
+- MongoDB chat history.
+- Firebase Authentication.
+- Redux Toolkit for state management.
+- Ollama integration.
 
 **Tech Stack**
 
-React • Node.js • MongoDB • Firebase • Redux Toolkit • Ollama
+React.js • Node.js • MongoDB • Firebase • Redux Toolkit • Ollama
 
 **GitHub**
 
-https://github.com/maliksaadnaeem937/ChatbotUsingOllama
+[AI Chatbot using Ollama](https://github.com/maliksaadnaeem937/ChatbotUsingOllama)
 
 ---
 
-## AI Code Reviewer
-
-Automated PR reviewer that polls a GitHub repo for open PRs and posts AI-generated code reviews as comments.
-
-**Highlights**
-
-- Multi-stage LangGraph pipeline: parallel PR data fetch → intent understanding → per-file review fan-out → summary
-- Integrates GitHub MCP server for PR reads and posting comments
-- Background poller checks for new/updated PRs every 30s, dockerized FastAPI backend
-
-**Tech Stack**
-
-FastAPI • LangGraph • Gemini • GitHub MCP • Docker
-
-**GitHub**
-
-https://github.com/maliksaadnaeem937/ai-pr-reviewer
-
----
-
-## 📜 Certification
-
-- React Basics – HackerRank
-
----
-
-## 📫 Connect
 
 
-**LinkedIn**  
-https://www.linkedin.com/in/malik-saad-naeem-a84060264
+## 📫 Connect With Me
 
-**GitHub**  
-https://github.com/maliksaadnaeem937
+**LinkedIn:**  
+[linkedin.com/in/malik-saad-naeem-a84060264](https://www.linkedin.com/in/malik-saad-naeem-a84060264)
+
+**GitHub:**  
+[github.com/maliksaadnaeem937](https://github.com/maliksaadnaeem937)
+
+**Email:**  
+[maliksaadnaeem937@gmail.com](mailto:maliksaadnaeem937@gmail.com)
 
 ---
 
 ## 🚀 Summary
 
-Open to Full-Stack Developer, MERN Stack, and AI Engineering opportunities. Passionate about building scalable applications and integrating AI into real-world products.
+Full-Stack Developer and AI enthusiast with hands-on experience building scalable web applications, backend services, and LLM-powered systems. Interested in agentic AI, multi-agent workflows, Retrieval-Augmented Generation (RAG), and practical AI engineering.
+
+Open to Full-Stack Developer, MERN Stack Developer, Backend Developer, and AI Engineering opportunities.
